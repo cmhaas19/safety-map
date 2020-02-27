@@ -1,0 +1,27 @@
+{
+  "name": "safety-map",
+  "version": "0.0.1",
+  "hash": "84a33218e4869c13558d9e4a711cb2db",
+  "external": {
+    "@servicenow/ui-core": {
+      "version": "17.0.0-rc.8",
+      "hash": "87a81ec38058c7dd42474275484a3b5b"
+    },
+    "@servicenow/ui-renderer-snabbdom": {
+      "version": "17.0.0-rc.8",
+      "hash": "14234001a991dafb51b810080405c5bb"
+    },
+    "@servicenow/sass-theme": {
+      "version": "2.0.23",
+      "hash": "cd2c6b11b4f7dbb057e35530fcad0f1f"
+    },
+    "@servicenow/sass-kit": {
+      "version": "2.0.23",
+      "hash": "44bab8f84039d3337eaf44ab397b25d1"
+    },
+    "sn-translate": {
+      "version": "17.0.1",
+      "hash": "2ef8cc0471d44888945c30db892cb249"
+    }
+  }
+}
