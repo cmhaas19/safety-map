@@ -1,0 +1,21 @@
+{
+	"components": {
+	    "safety-map": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "Issue Map",
+				"icon": "map-pin-outline",
+				"description": "A map of safety issues around the world"
+			},
+			"properties": [{
+				"name": "Table",
+				"label": "Table",
+				"description": "Select the table to show issues for",
+				"fieldType": "table_name",
+				"required": false
+			}]
+	    }
+	},
+	"scopeName": "x_163438_sftymap"
+}
